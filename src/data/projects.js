@@ -15,7 +15,7 @@ const data = [
     subtitle: 'Winner of 2021 Cyberport University Partnership Programme (CUPP)',
     link: 'https://payphone.hk',
     image: '/images/projects/payphone.png',
-    date: '2015-09-20',
+    date: '2021-11-01',
     desc:
       'Won ~ HK$100K in prizes for an advanced, low cost payments solution for supermarkets.'
       + 'Allowed users to pay using facial recognition technology in case they forget their wallet and phones at home.',
@@ -25,7 +25,7 @@ const data = [
     subtitle: 'MLH To the Moon Hackathon',
     link: 'https://alien8.netlify.app/',
     image: '/images/projects/alien8.png',
-    date: '2015-06-28',
+    date: '2019-08-04',
     desc:
       'Developed a social network for people to share their thoughts and feelings with other people anonymously.',
   },
