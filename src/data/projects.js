@@ -1,47 +1,33 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Neighbourhood',
+    subtitle: 'Personal project',
+    link: 'https://github.com/zweistein1326/neighbourhood',
+    image: '/images/projects/neighbourhood.png',
+    date: '2023-04-01',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Built as a side project to help people connect with others in their neighbourhood. '
+      + 'Neighbourhood allows people to share updates with people near them and build their community.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
+    title: 'PayPhone',
+    subtitle: 'Winner of 2021 Cyberport University Partnership Programme (CUPP)',
+    link: 'https://payphone.hk',
+    image: '/images/projects/payphone.png',
     date: '2015-09-20',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Won ~ HK$100K in prizes for an advanced, low cost payments solution for supermarkets.'
+      + 'Allowed users to pay using facial recognition technology in case they forget their wallet and phones at home.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
+    title: 'Alien8',
+    subtitle: 'MLH To the Moon Hackathon',
+    link: 'https://alien8.netlify.app/',
+    image: '/images/projects/alien8.png',
     date: '2015-06-28',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  },
-  {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Developed a social network for people to share their thoughts and feelings with other people anonymously.',
   },
 ];
 

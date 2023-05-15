@@ -12,29 +12,29 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael@mldangelo.com">michael@mldangelo.com</a></p>
+        <h2>Siddharth Agarwal</h2>
+        <p><a href="mailto:sid.agarwal45@gmail.com">sid.agarwal45@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni,
-        and the VP of Engineering at <a href="https://smileidentity.com">Smile Identity</a>. Previously,
-        I was the co-founder and CTO of <a href="https://arthena.com">Arthena</a>
-        , co-founder of <a href="https://matroid.com">Matroid</a>, and worked at
-        {' '}<a href="https://planet.com">Planet</a> and <a href="https://facebook.com">Facebook</a>.
+      <p>Hi, I&apos;m Siddharth. I am a <a href="https://cs.hku.hk">HKU CS</a> graduate, CUPP Alumni,
+        and a Software Engineer at <a href="https://parallelchain.io">ParallelChain Lab</a>. Previously,
+        I was the co-founder and CTO of <a href="https://www.payphone.hk">PayPhone</a>
+        , and formerly worked at
+        {' '}<a href="https://roju.app">ROJU</a> and <a href="https://www.youtube.com/watch?v=-UxTi3anqrc&ab_channel=BloombergTechnology">FirstCodeAcademy</a>.
       </p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
+          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/resume" className="button">About Me</Link>}
         </li>
       </ul>
     </section>
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Siddharth Agarwal <Link to="/">sidart.com</Link>.</p>
     </section>
   </section>
 );
