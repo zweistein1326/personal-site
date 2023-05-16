@@ -13,7 +13,9 @@ const Index = () => (
         <div className="title">
           <h2><Link to="/">About Me</Link></h2>
           <p>
-            A software engineer written in Deoxyribonucleic Acid. Likes to build things.
+            A problem solver by nature and software engineer by profession.
+            I like to design and build things.
+            Interested in distributed systems, web3, and machine learning.
           </p>
         </div>
       </header>
