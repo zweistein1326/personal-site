@@ -13,9 +13,12 @@ const Index = () => (
         <div className="title">
           <h2><Link to="/">About Me</Link></h2>
           <p>
-            A problem solver by nature and software engineer by profession.
-            I like to design and build things.
-            Interested in distributed systems, web3, and machine learning.
+            Highly motivated and skilled front-end engineer with experience in web and mobile
+            application development, rapid prototyping, UX design, and user-sentiment analysis.
+            Proficient in React/Next.js for web development and Expo/RN for mobile development.
+            Excited to leverage my skills and experience to help organizations create
+            intuitive and user-friendly applications. Possesses excellent leadership and team
+            management skills with experience in leading a team of 5 developers.
           </p>
         </div>
       </header>
